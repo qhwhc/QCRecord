@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.controller.Main
+Class-Path: . lib/beautyeye_lnf.jar lib/commons-beanutils-1.7.0.jar lib/commons-collections-3.2.jar lib/commons-lang-2.4.jar lib/commons-logging-1.1.jar lib/ezmorph-1.0.4.jar lib/jdom.jar lib/json-lib-2.2.2-jdk15.jar
+Created-By: cyb
